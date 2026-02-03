@@ -15,6 +15,12 @@ Venues in Calgary (Canada):
 
 ---
 
+Previous ORMIR workshops: 
+- [2nd ORMIR Workshop: Sharing and Curating Open Data in Musculoskeletal Imaging Research](https://github.com/ORMIRcommunity/2024_2nd_ORMIR_WS/blob/main/README.md), January 15-18, 2024, Zurich (Switzerland)
+- [1st ORMIR Workshop: Building the Jupyter Community in MSK Imaging Research](https://github.com/ORMIRcommunity/2024_2nd_ORMIR_WS/blob/main/README.md), June 9-11, 2022, Maastricht (The Netherlands)
+
+---
+
 In this page, you will find: 
 
 - [Program](#Program)
