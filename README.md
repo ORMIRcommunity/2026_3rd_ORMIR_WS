@@ -7,7 +7,7 @@ Main financial support by xxx
 Sponsors: xxx
   
 
-Dates: July 7-9, 2026
+Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
 - xxx
