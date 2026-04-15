@@ -1,7 +1,7 @@
 **!!! PAGE UNDER CONSTRUCTION !!!**
 
 
-# Title: TBD
+# Software organization for open source reproducible musculoskeletal imaging research workflows
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by xxx   
 Sponsors: xxx
