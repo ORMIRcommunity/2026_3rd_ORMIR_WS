@@ -9,8 +9,8 @@ Sponsors: xxx
 Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
-- xxx
-- xxx
+- McCaig Institute for Bone and Joint Health, Foothills Medical Campus
+- Engineering building...
 
 ---
 
