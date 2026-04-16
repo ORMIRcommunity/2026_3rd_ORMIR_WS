@@ -129,14 +129,13 @@ TBD
 ## Staying, eating, and travelling
 
 ### Accommodation
-TBD
-<!--
-- Where: [Hotel Hottingen](https://www.hotelhottingen.ch/en/), Hottingerstrasse 31, 8032 Zurich, Switzerland
-- Breakfast, WiFi, and City Tax are included
-- Check in: **Monday, January 15, 2024 from 3pm**
-- Check out: **Thursday, January 18, 2024 until 11am**
-- Number of nights: 3
-- The hotel provides luggage deposit  
+- Accommodation is at the University of Calgary in Yamnuska Hall  
+- Address: 3500 24 Ave NW  
+- Website: https://www.ucalgary.ca/ancillary/residence/live-us/places-live/second-year/yamnuska-hall
+- Check in: **Tuesday, July 7 from XX pm**
+- Check out: **Friday, July 10 before XX am**
+- Number of nights: 3* unless alternate arrangements have been made
+- TBC: The hotel provides luggage deposit  
 -->
 
 ### Meals
