@@ -2,7 +2,7 @@
 
 # Contributing to and maintaining software in the ORMIR Community
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
-Main financial support by xxx   
+Main financial support by Canadian Institutes for Health Research   
 Sponsors: xxx
   
 
@@ -10,7 +10,7 @@ Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
 - McCaig Institute for Bone and Joint Health, Foothills Medical Campus
-- Engineering building...
+- CCIT building, University of Calgary 
 
 ---
 
