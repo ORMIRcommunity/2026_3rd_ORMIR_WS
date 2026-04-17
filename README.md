@@ -156,8 +156,12 @@ TBD
     <br> <img src="./figures/cedre_map.png" height="300">
 -->
 
-### Public transportation
-TBD
+### Transportation
+- Public transportation in Calgary isn't ideal.
+- Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps and Calgary transit (https://www.calgarytransit.com/home.html) can help plan a trip. However you may want to consider an uber or taxi.
+- Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
+- Reaching the McCaig Institute from Yamnuska Hall (walking): To be added.
+- 
 <!--
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
 - Convenient vocabulary and abbreviations: Flughafen = airport; Banhof = train station; Hauptbanhof (abbreviated HB) = main train station; Bahnhofplatz (abbreviated Bfpl) = train station square 
