@@ -42,6 +42,7 @@ In this page, you will find:
 
 ## Program
 
+We're working on it!
 TBD
 <!-- <br> <img src="./figures/program.png" width="850"> -->
 
