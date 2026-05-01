@@ -133,10 +133,11 @@ TBD
 - Accommodation is at the University of Calgary in Yamnuska Hall  
 - Address: 3500 24 Ave NW  
 - Website: https://www.ucalgary.ca/ancillary/residence/live-us/places-live/second-year/yamnuska-hall
-- Check in: **Tuesday, July 7 from XX pm**
-- Check out: **Friday, July 10 before XX am**
+- Check in: **Tuesday, July 7 from 4 pm**
+- Check out: **Friday, July 10 before 11 am**
 - Number of nights: 3* unless alternate arrangements have been made
-- TBC: The hotel provides luggage deposit  
+- TBC: The hotel provides luggage deposit
+- Additional information here: https://www.ucalgary.ca/ancillary/accommodations-and-events/accommodations
 -->
 
 ### Meals
