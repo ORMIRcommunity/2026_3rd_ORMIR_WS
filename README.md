@@ -1,6 +1,7 @@
 **!!! PAGE UNDER CONSTRUCTION !!!**
 
-# Contributing to and maintaining software in the ORMIR Community
+<!--# Contributing to and maintaining software in the ORMIR Community-->
+# Best software engineering practices in Musculoskeletal Imaging Research
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by Canadian Institutes for Health Research   
 Sponsors: xxx
