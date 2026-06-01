@@ -1,10 +1,9 @@
 **!!! PAGE UNDER CONSTRUCTION !!!**
 
-<!--# Contributing to and maintaining software in the ORMIR Community-->
 # Best Software Engineering Practices in Musculoskeletal Imaging Research
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by Canadian Institutes for Health Research   
-Sponsors: xxx
+<!--Sponsors: xxx-->
   
 
 Dates: July 8-10, 2026
@@ -26,7 +25,6 @@ In this page, you will find:
 - [Program](#Program)
   - [Working groups](#working-groups)
   - [Invited speakers](#invited-speakers)
-  - [Day 1: Presentations](#day-1-presentations)
   <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
@@ -190,7 +188,7 @@ Coming soon!
   -->
 
 ### Travel reimbursements
-TBD
+Coming soon!
 <!--
 - Participants from Europe (except Switzerland) will receive 50CHF trip reimbursement
 - Participants from other continents will receive 300CHF trip reimbursement
@@ -200,7 +198,7 @@ TBD
 ---
 
 ## More
-TBD
+Coming soon!
 
 <!--
 ### Accepted proposal
