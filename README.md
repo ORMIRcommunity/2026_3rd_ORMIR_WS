@@ -43,14 +43,20 @@ In this page, you will find:
 
 ## Program
 
-We're working on it!
-TBD
+Coming soon!
 <!-- <br> <img src="./figures/program.png" width="850"> -->
 
 
-### Working groups  
+### Working groups 
+In Calgary:
+- **ORMIR-XCT code**
+  - Aim: To extend the functionalities of ORMIR-XCT
+  - GitHub repository [here](https://github.com/ORMIR-XCT/ORMIR-XCT)
+- **ORMIR-XCT documentation**
+  - Aim: To populate the ORMIR-XCT website with information for developers and users  
+  - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
+  - Website [here](https://ormir-xct.github.io/)
 
-TBD
 <!--
 - **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
   - Group presentation: [here](./presentations/ormir_mids.pdf)
@@ -71,7 +77,13 @@ TBD
 
 
 ### Invited speakers
-TBD
+- [Christof Seiler](https://christofseiler.github.io/) (tutorial). Topic: Introduction to software engineering principles
+- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) (tutorial). Topic: Working with GitHub
+- [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/) (presentation; virtual). Topic: best practices in maintaining and contributing to open source packages - lessons learned from real life
+- [Serena Bonaretti](https://sbonaretti.github.io/) (presentation). Topic: The importance of open science  
+
+*Note*: It will be possible to join presentations and tutorials remotely. They will also be recorder and added to the [ORMIR YouTube channel](https://www.youtube.com/@ormircommunity)
+
 <!--
 - [Ricard Martínez (University of Valencia)](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=) - *Data Sharing for the CHAIMELEON project* ([video](https://www.youtube.com/watch?v=j1HripU7Ubg))
 - [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html) - *Open is not enough* ([video](https://www.youtube.com/watch?v=PhcpiC5pAhg))
@@ -93,7 +105,7 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 ---
 
 ## Participants
-TBD
+Coming soon!
 <!--
 - [Andrea Cina](https://www.linkedin.com/in/andrea-cina-5709a6147/)
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
@@ -139,10 +151,10 @@ TBD
 - Number of nights: 3* unless alternate arrangements have been made
 - TBC: The hotel provides luggage deposit
 - Additional information here: https://www.ucalgary.ca/ancillary/accommodations-and-events/accommodations
--->
+
 
 ### Meals
-TBD
+Coming soon!
 <!--
 - Breakfast: at Hotel Hottingen
 - Lunch:  
