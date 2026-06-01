@@ -103,7 +103,37 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 ---
 
 ## Participants
-Coming soon!
+In Calgary:
+
+- Abhimanyu Mertiya
+- [Bettina Willie](https://github.com/BWillieLab)
+- [Callie Stirling](https://www.linkedin.com/in/callie-stirling-16ces2/)
+- [Cecilia Liberati](https://www.linkedin.com/in/cecilia-liberati/)
+- Cecily Chen
+- [Danielle Whittier](https://www.linkedin.com/in/daniellewhittier/)
+- [Elena Paravisi](https://www.linkedin.com/in/elena-paravisi2/)
+- Erica Baldesarra
+- [Francesco Santini](https://www.francescosantini.com/)
+- [Johannes Bereiter-Payr](https://johannespayr.eu/)
+- Justen Saini
+- Kandrix Kim
+- [Kathryn Stok](https://findanexpert.unimelb.edu.au/profile/778607-kathryn-stok)
+- [Mahdi Hosseinitabatabaei](https://www.researchgate.net/profile/Seyedmahdi-Hosseinitabatabaei)
+- [Matthias Walle](https://www.linkedin.com/in/matthias-walle/)
+- [Melissa Bevers](https://www.researchgate.net/profile/Melissa-Bevers)
+- [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)
+- Nina Pavlovic
+- Pedram Akhlaghi
+- [Raveen Sidhu](https://bonelab.ca/members/raveen-sidhu.html)
+- [Sarah Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
+- Sasha Hasick
+- Sean McGarry
+- [Serena Bonaretti](https://sbonaretti.github.io/)
+- [Steven Boyd](http://bonelab.ucalgary.ca/)
+- Tadiwa Waungana
+- Taylor deVet
+- [Vinny Castronuovo](https://www.linkedin.com/in/vinny-c-5a86b4136/)
+- Yihua Zhu
 <!--
 - [Andrea Cina](https://www.linkedin.com/in/andrea-cina-5709a6147/)
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
@@ -173,8 +203,8 @@ Coming soon!
 - Public transportation in Calgary isn't ideal.
 - Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps and Calgary transit (https://www.calgarytransit.com/home.html) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
-- Reaching the McCaig Institute from Yamnuska Hall (walking): To be added.
-- 
+- Reaching the McCaig Institute from Yamnuska Hall (walking): Coming soon!
+  
 <!--
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
 - Convenient vocabulary and abbreviations: Flughafen = airport; Banhof = train station; Hauptbanhof (abbreviated HB) = main train station; Bahnhofplatz (abbreviated Bfpl) = train station square 
