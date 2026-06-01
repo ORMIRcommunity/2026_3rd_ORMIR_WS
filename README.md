@@ -29,8 +29,10 @@ In this page, you will find:
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
+<!--
 - [More](#more)   
   - [Accepted proposal](#accepted-proposal), [Final report](#final-report), [Final budget](#final-budget), [Photos](#photos) 
+-->
 
 <!--
 - [Tips](#tips)   
@@ -227,10 +229,11 @@ Coming soon!
 
 ---
 
+<!--
 ## More
 Coming soon!
 
-<!--
+
 ### Accepted proposal
 Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349119)
 
