@@ -179,7 +179,8 @@ In Calgary:
 - Check in: **Tuesday, July 7 from 4 pm**
 - Check out: **Friday, July 10 before 11 am**
 - Number of nights: 3* unless alternate arrangements have been made
-- TBC: The hotel provides luggage deposit
+- Luggage deposit available if you arrive before your room is ready
+- There is a small kitchen with fridge and microwave available in each room for snacks. (We will be providing main meals beginning July 8).
 - Additional information here: https://www.ucalgary.ca/ancillary/accommodations-and-events/accommodations
 
 
