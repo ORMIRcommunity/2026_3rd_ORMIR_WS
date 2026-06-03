@@ -1,6 +1,7 @@
 # Best Software Engineering Practices in Musculoskeletal Imaging Research
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
-Main financial support by Canadian Institutes for Health Research   
+Main financial support by Canadian Institutes for Health Research, Planning and Dissemination Grant  
+Financial support for Distinguished Speaker (Dr. Serena Bonaretti): McCaig Institute for Bone and Joint Health
 <!--Sponsors: xxx-->
   
 
