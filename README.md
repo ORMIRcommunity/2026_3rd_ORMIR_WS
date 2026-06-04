@@ -1,7 +1,7 @@
 # Best Software Engineering Practices in Musculoskeletal Imaging Research
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by Canadian Institutes for Health Research, Planning and Dissemination Grant  
-Financial support for Distinguished Speaker (Dr. Serena Bonaretti): McCaig Institute for Bone and Joint Health
+Financial support for Distinguished Speaker: McCaig Institute for Bone and Joint Health
 <!--Sponsors: xxx-->
   
 
@@ -9,7 +9,10 @@ Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
 - McCaig Institute for Bone and Joint Health, Foothills Medical Campus
-- CCIT building, University of Calgary 
+- CCIT building, University of Calgary
+
+Venue in Bologna (Italy):
+- IRCCS Istituto Ortopedico Rizzoli
 
 ---
 
@@ -57,6 +60,11 @@ In Calgary:
   - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
   - Website [here](https://ormir-xct.github.io/)
 
+In Bologna:
+- **Ciclope**
+  - Aim: To extend the functionalities of Ciclope
+  - GitHub repository [here](https://github.com/ciclope-microFE/ciclope)
+
 <!--
 - **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
   - Group presentation: [here](./presentations/ormir_mids.pdf)
@@ -93,15 +101,6 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 - To attend the presentations *remotely*, register [here](https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137) (if the link does not work, copy/paste this link in your browser: https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137)
 - To attend the presentations *in person*, join us in the Auditorium of Schulthess Klinic on Tuesday (Lengghalde 2, 8008 Zürich) and in the Auditorium of Balgrist University Hospital on Wednesday (Forchstrasse 340, 8008 Zürich) -->
 
-
-
-<!--
-### Day 1: Presentations
-- Serena Bonaretti: [Welcome!](./presentations/bonaretti.pdf)
-- Sarah Manske: [Developing a repository for metadata: the SPECTRA experience](./presentations/manske.pdf)
-- Francesco Santini: [Collaborative lifelong learning for MR image segmentation with Dafne: a reproducible research project](./presentations/santini.pdf)
--->
-
 ---
 
 ## Participants
@@ -136,6 +135,16 @@ In Calgary:
 - Taylor deVet
 - [Vinny Castronuovo](https://www.linkedin.com/in/vinny-c-5a86b4136/)
 - Yihua Zhu
+
+In Bologna:
+- [Dario Santamaria](https://www.linkedin.com/in/alfonso-dario-santamaria)
+- [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
+- [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
+- [Gianluca	Iori](https://github.com/gianthk)
+- [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
+- [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
+
+
 <!--
 - [Andrea Cina](https://www.linkedin.com/in/andrea-cina-5709a6147/)
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
