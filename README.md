@@ -44,9 +44,12 @@ In this page, you will find:
 
 
 ## Program
-
 Tentative Program (Subject to change)
-<img width="3515" height="1794" alt="2026 ORMIR workshop tenative schedule" src="https://github.com/user-attachments/assets/f6d7828e-2417-4eaf-9963-4b17ac9dd2c3" />
+
+<br> <img src="./figures/program.png" width="850">
+
+<!--
+<img width="3515" height="1794" alt="2026 ORMIR workshop tenative schedule" src="https://github.com/user-attachments/assets/f6d7828e-2417-4eaf-9963-4b17ac9dd2c3" />-->
 
 
 
