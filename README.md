@@ -59,25 +59,27 @@ In this page, you will find:
 In Calgary:
 - **ORMIR-XCT code**
   - Aim: To extend the functionalities of ORMIR-XCT
+  - Working guidelines [coming soon!]()
   - GitHub repository [here](https://github.com/ORMIR-XCT/ORMIR-XCT)
   - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
 - **ORMIR-XCT documentation**
   - Aim: To populate the ORMIR-XCT website with information for developers and users
-  - Work guidelines [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing)
+  - Working guidelines [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing)
   - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
   - Website [here](https://ormir-xct.github.io/)
   - Coordinator: [Serena Bonaretti](https://sbonaretti.github.io/)
 - **Integration ORMIR-MIDS and ORMIR-XCT**
   - Aim: To integrate the file and folder structure or ORMIR-MIDS in the ORMIR-XCT functionalities and workflows
-  - Work guidelines [here](https://docs.google.com/document/d/1cOuzd0ZXzHeT-GA3ThzqJn9iv8D7M348xsDEDv5bNqk/edit?usp=sharing)
+  - Working guidelines [here](https://docs.google.com/document/d/1cOuzd0ZXzHeT-GA3ThzqJn9iv8D7M348xsDEDv5bNqk/edit?usp=sharing)
   - GitHub repository [here](https://github.com/ormir-mids/ormir-mids)
   - Coordinator: [Francesco Santini](https://www.francescosantini.com/)
 
 In Bologna:
 - **Ciclope**
-  - Coordinator: [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
   - Aim: To extend the functionalities of Ciclope
+  - Working guidelines [coming soon!]()
   - GitHub repository [here](https://github.com/ciclope-microFE/ciclope)
+  - Coordinator: [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
 
 <!--
 - **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
