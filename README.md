@@ -55,16 +55,23 @@ In this page, you will find:
 ### Working groups during the hackathon
 In Calgary:
 - **ORMIR-XCT code**
+  - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
   - Aim: To extend the functionalities of ORMIR-XCT
   - GitHub repository [here](https://github.com/ORMIR-XCT/ORMIR-XCT)
 - **ORMIR-XCT documentation**
+  - Coordinator: [Serena Bonaretti](https://sbonaretti.github.io/)
   - Aim: To populate the ORMIR-XCT website with information for developers and users
   - Work guidelines: [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing)
   - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
   - Website [here](https://ormir-xct.github.io/)
+- **Integration ORMIR-MIDS and ORMIR-XCT**
+  - Coordinator: [Francesco Santini](https://www.francescosantini.com/)
+  - Aim: To integrate the file and folder structure or ORMIR-MIDS in the ORMIR-XCT functionalities and workflows
+  - Work guidelines: [here](https://docs.google.com/document/d/1cOuzd0ZXzHeT-GA3ThzqJn9iv8D7M348xsDEDv5bNqk/edit?usp=sharing)
 
 In Bologna:
 - **Ciclope**
+  - Coordinator: [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
   - Aim: To extend the functionalities of Ciclope
   - GitHub repository [here](https://github.com/ciclope-microFE/ciclope)
 
