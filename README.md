@@ -52,7 +52,7 @@ In this page, you will find:
 
 
 
-### Working groups during the hackathon
+### Working groups
 In Calgary:
 - **ORMIR-XCT code**
   - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
