@@ -44,7 +44,6 @@ In this page, you will find:
 
 
 ## Program
-Tentative Program (Subject to change)
 
 <br> <img src="./figures/program.png" width="850">
 
