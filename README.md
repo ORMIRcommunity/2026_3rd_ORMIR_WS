@@ -110,6 +110,7 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 In Calgary:
 
 - Abhimanyu Mertiya
+- [Andrew Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
 - [Bettina Willie](https://github.com/BWillieLab)
 - [Callie Stirling](https://www.linkedin.com/in/callie-stirling-16ces2/)
 - [Cecilia Liberati](https://www.linkedin.com/in/cecilia-liberati/)
