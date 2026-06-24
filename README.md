@@ -219,7 +219,7 @@ In Bologna:
 - **Thursday evening:** [Calgary Stampede Evening Show](https://www.calgarystampede.com/stampede/shows/evening), [1410 Stampede Trail SE](https://maps.app.goo.gl/Z3CPiZYrgTaFgEqS7), 
   - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
   - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
-  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase [food on the stampede grounds] (https://www.calgarystampede.com/new-midway-food)
+  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase [food on the stampede grounds](https://www.calgarystampede.com/new-midway-food)
   - Public transportation will be the easiest way to access the grounds (~45 min), although cabs and ubers are a possibilty as well
 <!--
 - Lunch:  
@@ -239,7 +239,7 @@ In Bologna:
 ### Transportation
 - Public transportation in Calgary isn't ideal.
 - **Payment for the bus is through coin or the [MyFare app](https://www.calgarytransit.com/fares---passes/my-fare.html)  or the [Transit app](https://help.transitapp.com/article/471-buy-tickets-calgary#tickets) only.**
-- Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit] (https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
+- Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit](https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
 - Reaching the McCaig Institute from Yamnuska Hall (walking): Coming soon!
 - Reaching the McCaig Institute from Yamnuska Hall (bus):
