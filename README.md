@@ -8,8 +8,8 @@ Financial support for Distinguished Speaker: McCaig Institute for Bone and Joint
 Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
-- McCaig Institute for Bone and Joint Health, Foothills Medical Campus
-- CCIT building, University of Calgary
+- [McCaig Institute for Bone and Joint Health](https://maps.app.goo.gl/R5P92f7S9x34CP4x8), Foothills Medical Campus
+- [CCIT building](https://maps.app.goo.gl/tt66XgKmeWpHSFh98), University of Calgary
 
 Venue in Bologna (Italy):
 - IRCCS Istituto Ortopedico Rizzoli
@@ -212,11 +212,11 @@ In Bologna:
 
 ### Meals and social activities
 
-- **Tuesday Social:** Canadian Brewhouse (Calgary University District), https://thecanadianbrewhouse.com/locations/calgary/#university-district, 3953 University Ave NW #220. This event is optional, and cost is not included in registration.
+- **Tuesday Social:** [Canadian Brewhouse (Calgary University District)](https://thecanadianbrewhouse.com/patio-season/?gad_source=1&gad_campaignid=23808899918&gbraid=0AAAAADOnoEfYTB3fDIrzBCWBo0GskI3ZJ&gclid=CjwKCAjwgO7RBhBKEiwAZNP85hvBAi4Bfhr-T_lQGJ2B_SQHKyfI9rSt6GGDRt3zf_2Md9bMNnnuLBoCBRkQAvD_BwE), [3953 University Ave NW #220](https://maps.app.goo.gl/qcuzxJH27gf6Q1uA8). This event is optional, and cost is not included in registration.
 - **Breakfasts:** The Landing. (University Campus, 124 University Gate NW. Details are still TBD
 - **Lunches:** Will be catered onsite at McCaig Institute or CCIT
-- **Wednesday dinner:** Borough Bar and Grill, 4011 University Ave NW,  https://boroughbar.ca/, Meal and non-alcoholic drinks are included.
-- **Thursday evening:** Calgary Stampede Evening Show, 1410 Stampede Trail SE, https://www.calgarystampede.com/stampede/shows/evening
+- **Wednesday dinner:** [Borough Bar and Grill](https://boroughbar.ca), [4011 University Ave NW](https://maps.app.goo.gl/pLS9NukVRAT6RWwc6), Meal and non-alcoholic drinks are included.
+- **Thursday evening:** [Calgary Stampede Evening Show](https://www.calgarystampede.com/stampede/shows/evening), [1410 Stampede Trail SE](https://maps.app.goo.gl/Z3CPiZYrgTaFgEqS7), 
   - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
   - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
   - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase on the stampede grounds (e.g., https://www.calgarystampede.com/new-midway-food)
