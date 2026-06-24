@@ -219,7 +219,7 @@ In Bologna:
 - **Thursday evening:** [Calgary Stampede Evening Show](https://www.calgarystampede.com/stampede/shows/evening), [1410 Stampede Trail SE](https://maps.app.goo.gl/Z3CPiZYrgTaFgEqS7), 
   - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
   - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
-  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase on the stampede grounds (e.g., https://www.calgarystampede.com/new-midway-food)
+  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase [food on the stampede grounds] (https://www.calgarystampede.com/new-midway-food)
   - Public transportation will be the easiest way to access the grounds (~45 min), although cabs and ubers are a possibilty as well
 <!--
 - Lunch:  
@@ -238,13 +238,14 @@ In Bologna:
 
 ### Transportation
 - Public transportation in Calgary isn't ideal.
-- **Payment for the bus is through coin or app only.**
-- Instructions to download the app are available here: https://help.transitapp.com/article/471-buy-tickets-calgary
-  - you should be able to purchase a single ride ticket through Apple Pay or Google Pay without installing the app
-- Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps and Calgary transit (https://www.calgarytransit.com/home.html) can help plan a trip. However you may want to consider an uber or taxi.
+- **Payment for the bus is through coin or the [MyFare app](https://www.calgarytransit.com/fares---passes/my-fare.html)  or the [Transit app](https://help.transitapp.com/article/471-buy-tickets-calgary#tickets) only.**
+- Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit] (https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
 - Reaching the McCaig Institute from Yamnuska Hall (walking): Coming soon!
-  
+- Reaching the McCaig Institute from Yamnuska Hall (bus):
+  - Bus 90 stops outside Yamnuska Hall
+  - Ride the bus for 6 stops to Hospital Drive & Cal Wenzel (this will drop you in front of the Cal Wenzel Precision Health Building)
+  - Enter the CWPH building and follow signs to HRIC (specific room details coming soon!)
 <!--
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
 - Convenient vocabulary and abbreviations: Flughafen = airport; Banhof = train station; Hauptbanhof (abbreviated HB) = main train station; Bahnhofplatz (abbreviated Bfpl) = train station square 
