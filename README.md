@@ -210,10 +210,18 @@ In Bologna:
 - Additional information here: https://www.ucalgary.ca/ancillary/accommodations-and-events/accommodations
 
 
-### Meals
-Coming soon!
+### Meals and social activities
+
+- **Tuesday Social:** Canadian Brewhouse (Calgary University District), https://thecanadianbrewhouse.com/locations/calgary/#university-district, 3953 University Ave NW #220. This event is optional, and cost is not included in registration.
+- **Breakfasts:** The Landing. (University Campus, 124 University Gate NW. Details are still TBD
+- **Lunches:** Will be catered onsite at McCaig Institute or CCIT
+- **Wednesday dinner:** Borough Bar and Grill, 4011 University Ave NW,  https://boroughbar.ca/, Meal and non-alcoholic drinks are included.
+- **Thursday evening:** Calgary Stampede Evening Show, 1410 Stampede Trail SE, https://www.calgarystampede.com/stampede/shows/evening
+  - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
+  - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
+  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase on the stampede grounds (e.g., https://www.calgarystampede.com/new-midway-food)
+  - Public transportation will be the easiest way to access the grounds (~45 min), although cabs and ubers are a possibilty as well
 <!--
-- Breakfast: at Hotel Hottingen
 - Lunch:  
   - Monday: Balgrist Canteen  
   - Tuesday: Catered at Schulthess  
@@ -230,6 +238,9 @@ Coming soon!
 
 ### Transportation
 - Public transportation in Calgary isn't ideal.
+- **Payment for the bus is through coin or app only.**
+- Instructions to download the app are available here: https://help.transitapp.com/article/471-buy-tickets-calgary
+  - you should be able to purchase a single ride ticket through Apple Pay or Google Pay without installing the app
 - Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps and Calgary transit (https://www.calgarytransit.com/home.html) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
 - Reaching the McCaig Institute from Yamnuska Hall (walking): Coming soon!
