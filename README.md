@@ -64,7 +64,7 @@ In Calgary:
   - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
 - **ORMIR-XCT documentation**
   - Aim: To populate the ORMIR-XCT website with information for developers and users
-  - Working guidelines [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing)
+  - Working guidelines: for the content [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing) and for the computational tools [here](https://www.ormir.org/code_guidelines/docs-contributing/)
   - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
   - Website [here](https://ormir-xct.github.io/)
   - Coordinator: [Serena Bonaretti](https://sbonaretti.github.io/)
