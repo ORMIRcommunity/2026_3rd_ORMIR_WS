@@ -77,7 +77,7 @@ In Calgary:
 In Bologna:
 - **Ciclope**
   - Aim: To extend the functionalities of Ciclope
-  - Working guidelines [coming soon!]()
+  - Working guidelines [here](https://docs.google.com/document/d/1tezdPCSCIN0VacOfaYaZtvHsdq-mwjzGhy_SXKYMhCc/edit?usp=sharing)
   - GitHub repository [here](https://github.com/ciclope-microFE/ciclope)
   - Coordinator: [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
 
