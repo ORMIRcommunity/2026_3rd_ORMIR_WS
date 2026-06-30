@@ -45,12 +45,15 @@ In this page, you will find:
 
 ## Program
 
-<br> <img src="./figures/program.png" width="850">
+In Calgary:
+
+<br> <img src="./figures/program_calgary.png" width="850">
 
 <!--
 <img width="3515" height="1794" alt="2026 ORMIR workshop tenative schedule" src="https://github.com/user-attachments/assets/f6d7828e-2417-4eaf-9963-4b17ac9dd2c3" />-->
 
-
+In Bologna:
+<br> <img src="./figures/program_bologna.png" width="850">
 
 ### Working groups
 
@@ -102,7 +105,7 @@ In Bologna:
 
 ### Invited speakers
 - [Christof Seiler](https://christofseiler.github.io/) (tutorial). Topic: Introduction to software engineering principles
-- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) (tutorial). Topic: Working with GitHub
+- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) (tutorial). Topic: Working with Git
 - [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/) (presentation; virtual). Topic: best practices in maintaining and contributing to open source packages - lessons learned from real life
 - [Serena Bonaretti](https://sbonaretti.github.io/) (presentation). Topic: The importance of open science  
 
@@ -154,12 +157,14 @@ In Calgary:
 - Yihua Zhu
 
 In Bologna:
+- Antonino La Mattina
 - [Dario Santamaria](https://www.linkedin.com/in/alfonso-dario-santamaria)
 - [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
 - [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
 - [Gianluca	Iori](https://github.com/gianthk)
 - [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
 - [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
+
 
 
 <!--
