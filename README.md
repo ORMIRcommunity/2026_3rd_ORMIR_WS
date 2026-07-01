@@ -193,7 +193,9 @@ In Bologna:
 - **Thursday evening:** [Calgary Stampede Evening Show](https://www.calgarystampede.com/stampede/shows/evening), [1410 Stampede Trail SE](https://maps.app.goo.gl/Z3CPiZYrgTaFgEqS7), 
   - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
   - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
-  - We're still sorting out logistics for paying or compensating for food - there are lots of options to purchase [food on the stampede grounds](https://www.calgarystampede.com/new-midway-food)
+  - Eating: there are lots of options to purchase [food on the stampede grounds](https://www.calgarystampede.com/new-midway-food)
+    - **you will need to keep receipts from your meal(s) for later reimbursement (see Travel reimbursements below)**
+    - no alcohol can be reimbursed
   - Public transportation will be the easiest way to access the grounds (~45 min), although cabs and ubers are a possibilty as well
 
 
@@ -210,12 +212,15 @@ In Bologna:
 
 
 ### Travel reimbursements
-Coming soon!
-<!--
-- Participants from Europe (except Switzerland) will receive 50CHF trip reimbursement
-- Participants from other continents will receive 300CHF trip reimbursement
-- The reimbursement form will be available after the workshop  
--->
+- International attendees may claim up to $500 CAD
+- Canadian attendees may claim up to $250 CAD
+- In order to claim travel you must keep copies of:
+  - flight receipts (including boarding pass)
+  - meal/food expenses from Thursday July 9 dinner (not including any alcoholic beverages
+  - **suggest taking pictures with your phone**
+- You will be required to provide us with additional information - coming soon!  
+
+
 
 ---
 
