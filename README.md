@@ -207,8 +207,8 @@ In Bologna:
 - Reaching the McCaig Institute from Yamnuska Hall (walking):
   - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/x6DdouVNuK8KswCP9) to reach the North Entrance of the HSC and HMRB building
 - Reaching the McCaig Institute from Yamnuska Hall (bus):
-  - Bus 90 stops outside Yamnuska Hall
-  - Ride the bus for 7 stops to EB Hospital Dr/Health Science Ce NW
+  - Bus 90 stops outside Yamnuska Hall, board the bus at stop WB 24 Av NW/Upton Pl
+  - Ride the bus for 7 stops to stop EB Hospital Dr/Health Science Ce NW
   - Turn right getting off the bus (the Arthur J.E. Child Cancer Center should be on your right hand side) and cross the street
   - Continue down Hospital Drive and enter the North Entrance of the HSC and HMRB building
 - Directions to room **HSC1405B**
