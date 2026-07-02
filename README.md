@@ -204,12 +204,19 @@ In Bologna:
 - **Payment for the bus is through coin or the [MyFare app](https://www.calgarytransit.com/fares---passes/my-fare.html)  or the [Transit app](https://help.transitapp.com/article/471-buy-tickets-calgary#tickets) only.**
 - Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit](https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
-- Reaching the McCaig Institute from Yamnuska Hall (walking): Coming soon!
+- Reaching the McCaig Institute from Yamnuska Hall (walking):
+  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/x6DdouVNuK8KswCP9) to reach the North Entrance of the HSC and HMRB building
 - Reaching the McCaig Institute from Yamnuska Hall (bus):
   - Bus 90 stops outside Yamnuska Hall
-  - Ride the bus for 6 stops to Hospital Drive & Cal Wenzel (this will drop you in front of the Cal Wenzel Precision Health Building)
-  - Enter the CWPH building and follow signs to HS1405B (specific room details coming soon!)
-
+  - Ride the bus for 7 stops to EB Hospital Dr/Health Science Ce NW
+  - Turn right getting off the bus (the Arthur J.E. Child Cancer Center should be on your right hand side) and cross the street
+  - Continue down Hospital Drive and enter the North Entrance of the HSC and HMRB building
+- Directions to room **HSC1405B**
+  - Once inside the North Entrance, continue straight through the building and follow the signs for H (dark blue circle)
+  - After you have passed the University of Calgary Bookstore, there will be a set of stairs ahead
+    - Take the stairs up to floor 1, turn left and follow signs to HSC1405B
+  - If you need the elevator, follow the signs for elevator J
+    - Take the elevator to floor 1 and HSC1405B will be immediately to the right
 
 ### Travel reimbursements
 - International attendees may claim up to $500 CAD
