@@ -212,11 +212,10 @@ In Bologna:
     - Take the elevator to floor 1 and HSC1405B will be immediately to the right
 
 ### Travel reimbursements
-- International attendees may claim up to $500 CAD
-- Canadian attendees may claim up to $250 CAD
+- International attendees may claim up to $550 CAD
+- Canadian attendees may claim up to $300 CAD
 - In order to claim travel you must keep copies of:
   - flight receipts (including boarding pass)
-  - meal/food expenses from Thursday July 9 dinner (not including any alcoholic beverages
   - **suggest taking pictures with your phone**
 - You will be required to provide us with additional information - coming soon!  
 
