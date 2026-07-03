@@ -182,7 +182,7 @@ In Bologna:
 ### Meals and social activities
 
 - **Tuesday Social:** [Canadian Brewhouse (Calgary University District)](https://thecanadianbrewhouse.com/patio-season/?gad_source=1&gad_campaignid=23808899918&gbraid=0AAAAADOnoEfYTB3fDIrzBCWBo0GskI3ZJ&gclid=CjwKCAjwgO7RBhBKEiwAZNP85hvBAi4Bfhr-T_lQGJ2B_SQHKyfI9rSt6GGDRt3zf_2Md9bMNnnuLBoCBRkQAvD_BwE), [3953 University Ave NW #220](https://maps.app.goo.gl/qcuzxJH27gf6Q1uA8). This event is optional, and cost is not included in registration.
-- **Breakfasts:** The Landing. (University Campus, 124 University Gate NW. Served from 7:00 am to 8:15 am. *Please note it is ~ 30 minutes to walk to the McCaig Institute Wednesday morning, please wrap up breakfast by 8 am! You will have a bit more time on Thursday and Friday.*
+- **Breakfasts:** The Landing. (University Campus, [124 University Gate NW](https://maps.app.goo.gl/GUhGDhwfGRAap9jf6). Served from 7:00 am to 8:15 am. *Please note it is ~ 30 minutes to walk to the McCaig Institute Wednesday morning, please wrap up breakfast by 8 am! You will have a bit more time on Thursday and Friday.*
 - **Lunches:** Will be catered onsite at McCaig Institute or CCIT
 - **Wednesday dinner:** [Borough Bar and Grill](https://boroughbar.ca), [4011 University Ave NW](https://maps.app.goo.gl/pLS9NukVRAT6RWwc6), Meal and non-alcoholic drinks are included.
 - **Thursday evening:** [Calgary Stampede Evening Show](https://www.calgarystampede.com/stampede/shows/evening), [1410 Stampede Trail SE](https://maps.app.goo.gl/Z3CPiZYrgTaFgEqS7), 
@@ -199,9 +199,11 @@ In Bologna:
 - **Payment for the bus is through coin or the [MyFare app](https://www.calgarytransit.com/fares---passes/my-fare.html)  or the [Transit app](https://help.transitapp.com/article/471-buy-tickets-calgary#tickets) only.**
 - Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit](https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
-  
+
+- Reaching the McCaig Institute from The Landing (walking)
+  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/NyY3hPpLwo6wkKH29) to reach the North Entrance of the HMRB building
 - Reaching the McCaig Institute from Yamnuska Hall (walking):
-  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/x6DdouVNuK8KswCP9) to reach the North Entrance of the HSC and HMRB building
+  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/rDmdEbEr3VCWUHLa9) to reach the North Entrance of the HMRB building
 - Reaching the McCaig Institute from Yamnuska Hall (bus):
   - Bus 90 stops outside Yamnuska Hall, board the bus at stop WB 24 Av NW/Upton Pl
   - Ride the bus for 7 stops to stop EB Hospital Dr/Health Science Ce NW
@@ -216,9 +218,12 @@ In Bologna:
   - A detailed map to HSC1405B from the North Entrance can be found [here](https://drive.google.com/file/d/1fgOS8SKt-RG_n43uIuC87BCKsy--h2jc/view?usp=sharing)
  
 - Reaching the CCIT Building from Yamnuska Hall (walking)
-  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/DxLgiyM2oXPxruvQ8) to get to the main entrace of     the CCIT building
+  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/DxLgiyM2oXPxruvQ8) to get to the main entrace of the CCIT building
   - Once inside, a detailed map to room CCIT 211 can be found [here](https://drive.google.com/file/d/1nfF7rsuw301ibIAXpwaMdCz9LbCfOtrB/view?usp=sharing)
 
+- If you need additional assistance, you can access the interactive University of Calgary map [here](https://ucalgary-gs.maps.arcgis.com/apps/webappviewer/index.html?id=2e1817b41cb64815a50f617593aabf4e)
+
+  
 ### Travel reimbursements
 - International attendees may claim up to $550 CAD
 - Canadian attendees may claim up to $300 CAD
