@@ -53,9 +53,9 @@ In Bologna:
 *Feel free to contact the coordinators if you need any help!*
 
 In Calgary:
-- **ORMIR-XCT code**
+- **ORMIR-XCT code** 
   - Aim: To extend the functionalities of ORMIR-XCT
-  - Working guidelines [coming soon!]()
+  - Working guidelines [here](./presentations/ORMIR_XCT_Workshop2026_Prep_Michael.pdf)
   - GitHub repository [here](https://github.com/ORMIR-XCT/ORMIR-XCT)
   - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
 - **ORMIR-XCT documentation**
