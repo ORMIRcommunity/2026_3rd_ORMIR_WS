@@ -2,8 +2,6 @@
 ## 3rd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by Canadian Institutes for Health Research, Planning and Dissemination Grant  
 Financial support for Distinguished Speaker: McCaig Institute for Bone and Joint Health
-<!--Sponsors: xxx-->
-  
 
 Dates: July 8-10, 2026
 
@@ -27,18 +25,13 @@ In this page, you will find:
 - [Program](#Program)
   - [Working groups](#working-groups)
   - [Invited speakers](#invited-speakers)
-  <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
-- [Staying, eating, and travelling](#stayingeatingtravelling)    
-  - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
+- [Staying, eating, and travelling](#staying-eating-and-travelling)    
+  - [Accommodation](#accommodation), [Meals and social activities](#meals-and-social-activities), [Transportation](#transportation), [Travel reimbursements](#travel-reimbursements)  
 <!--
 - [More](#more)   
   - [Accepted proposal](#accepted-proposal), [Final report](#final-report), [Final budget](#final-budget), [Photos](#photos) 
 -->
-
-<!--
-- [Tips](#tips)   
-  - [What you need to know about Switzerland](#What-you-need-to-know-about-the-Switzerland), [Practical information about Zurich](#Practical-information-about-Zurich), [Things to do or see in Zurich](#Things-to-do-or-see-in-Zurich)   -->
 
 ---
 
