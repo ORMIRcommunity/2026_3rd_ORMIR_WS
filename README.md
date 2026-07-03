@@ -7,7 +7,9 @@ Dates: July 8-10, 2026
 
 Venues in Calgary (Canada): 
 - [McCaig Institute for Bone and Joint Health](https://maps.app.goo.gl/R5P92f7S9x34CP4x8), Foothills Medical Campus
+  - Room: HSC1405B
 - [CCIT building](https://maps.app.goo.gl/tt66XgKmeWpHSFh98), University of Calgary
+  - Room: CCIT 211
 
 Venue in Bologna (Italy):
 - IRCCS Istituto Ortopedico Rizzoli
@@ -197,6 +199,7 @@ In Bologna:
 - **Payment for the bus is through coin or the [MyFare app](https://www.calgarytransit.com/fares---passes/my-fare.html)  or the [Transit app](https://help.transitapp.com/article/471-buy-tickets-calgary#tickets) only.**
 - Transit from the airport: There are bus options from the Airport to the University (~ 1 hr). Google maps, [Calgary transit](https://www.calgarytransit.com/home.html) or the [Transit app](https://transitapp.com) can help plan a trip. However you may want to consider an uber or taxi.
 - Transit to downtown: There is a CTrain (light rail) station at the east end of the university campus (~ 20 min walk from Yamnuska Hall) that is probably the easiest way to get to downtown and the Stampede grounds
+  
 - Reaching the McCaig Institute from Yamnuska Hall (walking):
   - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/x6DdouVNuK8KswCP9) to reach the North Entrance of the HSC and HMRB building
 - Reaching the McCaig Institute from Yamnuska Hall (bus):
@@ -210,6 +213,11 @@ In Bologna:
     - Take the stairs up to floor 1, turn left and follow signs to HSC1405B
   - If you need the elevator, follow the signs for elevator J
     - Take the elevator to floor 1 and HSC1405B will be immediately to the right
+  - A detailed map to HSC1405B from the North Entrance can be found [here](https://drive.google.com/file/d/1fgOS8SKt-RG_n43uIuC87BCKsy--h2jc/view?usp=sharing)
+ 
+- Reaching the CCIT Building from Yamnuska Hall (walking)
+  - Follow the Google Map directions detailed [here](https://maps.app.goo.gl/DxLgiyM2oXPxruvQ8) to get to the main entrace of     the CCIT building
+  - Once inside, a detailed map to room CCIT 211 can be found [here](https://drive.google.com/file/d/1nfF7rsuw301ibIAXpwaMdCz9LbCfOtrB/view?usp=sharing)
 
 ### Travel reimbursements
 - International attendees may claim up to $550 CAD
