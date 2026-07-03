@@ -150,7 +150,7 @@ In Calgary:
 - Yihua Zhu
 
 In Bologna:
-- Antonino La Mattina
+- [Antonino La Mattina](https://www.linkedin.com/in/antonino-amedeo-la-mattina-17357aa6/)
 - [Dario Santamaria](https://www.linkedin.com/in/alfonso-dario-santamaria)
 - [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
 - [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
