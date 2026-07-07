@@ -192,8 +192,10 @@ In Bologna:
   - Evening show begins with the chuckwagon races at 7:15, a Grandstand show (live performances), and ends with fireworks ~ 11 pm.
   - Your ticket will get you access to the Stampede grounds earlier in the day - you will be free to explore and get food.
   - Eating: there are lots of options to purchase [food on the stampede grounds](https://www.calgarystampede.com/new-midway-food)
-    - **you will need to keep receipts from your meal(s) for later reimbursement (see Travel reimbursements below)**
+<!--
+ - **you will need to keep receipts from your meal(s) for later reimbursement (see Travel reimbursements below)**
     - no alcohol can be reimbursed
+ --> 
   - Public transportation will be the easiest way to access the grounds (~45 min), although cabs and ubers are a possibilty as well
 
 
