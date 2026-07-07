@@ -172,6 +172,9 @@ In Bologna:
 - Address: 3500 24 Ave NW  
 - Website: https://www.ucalgary.ca/ancillary/residence/live-us/places-live/second-year/yamnuska-hall
 - Check in: **Tuesday, July 7 from 4 pm**
+  - **Please note:** you will need to check in at International House [(169 University Gate NW)](https://maps.app.goo.gl/EbnYmnnhRib12D9o8), this is a DIFFERENT building       than Yamnuska Hall
+  - The accodation desk is open from **4pm - 11pm** for check-in; if you are arriving after 11pm, please email stay@ucalgary.ca for further instructions
+  - It is a 5 minute walk from International House to Yamnuska Hall, you can find directions [here](https://maps.app.goo.gl/VQbqydAJD9xbj1mXA)
 - Check out: **Friday, July 10 before 11 am**
 - Number of nights: 3* unless alternate arrangements have been made
 - Luggage deposit available if you arrive before your room is ready
