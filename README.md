@@ -99,10 +99,10 @@ In Bologna:
 
 
 ### Invited speakers
-- [Christof Seiler](https://christofseiler.github.io/) (tutorial). Topic: Introduction to software engineering principles
-- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) (tutorial). Topic: Working with Git
-- [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/) (presentation; virtual). Topic: best practices in maintaining and contributing to open source packages - lessons learned from real life
-- [Serena Bonaretti](https://sbonaretti.github.io/) (presentation). Topic: The importance of open science  
+- [Christof Seiler](https://christofseiler.github.io/): [Software engineering principles](https://christofseiler.github.io/talks/ormir#/title-slide) (tutorial)
+- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) Working with Git (tutorial)
+- [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/). Best practices in maintaining and contributing to open source packages - lessons learned from real life (presentation, virtual)
+- [Serena Bonaretti](https://sbonaretti.github.io/): [Open Science in Musculoskeletal Imaging: From Principles to Practice](/presentations/2026_07_08_Bonaretti.pdf) (presentation) 
 
 *Note*: It will be possible to join presentations and tutorials remotely. They will also be recorder and added to the [ORMIR YouTube channel](https://www.youtube.com/@ormircommunity)
 
