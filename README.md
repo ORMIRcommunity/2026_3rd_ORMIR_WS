@@ -224,7 +224,7 @@ In Bologna:
 - In order to claim travel you must keep copies of:
   - flight receipts (including boarding pass)
   - **suggest taking pictures with your phone**
-- You will be required to provide us with additional information - coming soon!  
+- Please fill out the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAcaX6qZ1UTrncjfL25TpbqwopSte5a0BCbXmemhGt1ce_BA/viewform?usp=header) with all the required information for travel reimbursements!
 
 
 
