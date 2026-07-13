@@ -41,11 +41,7 @@ In this page, you will find:
 ## Program
 
 In Calgary:
-
 <br> <img src="./figures/program_calgary.png" width="850">
-
-<!--
-<img width="3515" height="1794" alt="2026 ORMIR workshop tenative schedule" src="https://github.com/user-attachments/assets/f6d7828e-2417-4eaf-9963-4b17ac9dd2c3" />-->
 
 In Bologna:
 <br> <img src="./figures/program_bologna.png" width="850">
@@ -99,21 +95,13 @@ In Bologna:
 
 
 ### Invited speakers
-- [Christof Seiler](https://christofseiler.github.io/): [Software engineering principles](https://christofseiler.github.io/talks/ormir#/title-slide) (tutorial)
-- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/) Working with Git (tutorial)
-- [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/). Best practices in maintaining and contributing to open source packages - lessons learned from real life (presentation, virtual)
-- [Serena Bonaretti](https://sbonaretti.github.io/): [Open Science in Musculoskeletal Imaging: From Principles to Practice](/presentations/2026_07_08_Bonaretti.pdf) (presentation) 
+- [Christof Seiler](https://christofseiler.github.io/): Software engineering principles (tutorial) ([slides](https://christofseiler.github.io/talks/ormir#/title-slide), video coming soon!)
+- [Serena Bonaretti](https://sbonaretti.github.io/): Open Science in Musculoskeletal Imaging: From Principles to Practice (presentation) ([slides](presentations/bonaretti_open_science_in_msk.pdf), video coming soon!)
+- [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/): Best practices in maintaining and contributing to open source packages - lessons learned from real life (presentation, virtual) ([slides](/presentations/mccormick_ormir_best_practices_in_maintaining_and_contributing_to_open_source_packages.pdf), video coming soon!)
+- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/): Git use and software organization (tutorial) ([slides](/presentations/baldesarra_git_tutorial.pdf), video coming soon!)
+
 
 *Note*: It will be possible to join presentations and tutorials remotely. They will also be recorder and added to the [ORMIR YouTube channel](https://www.youtube.com/@ormircommunity)
-
-<!--
-- [Ricard Martínez (University of Valencia)](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=) - *Data Sharing for the CHAIMELEON project* ([video](https://www.youtube.com/watch?v=j1HripU7Ubg))
-- [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html) - *Open is not enough* ([video](https://www.youtube.com/watch?v=PhcpiC5pAhg))
-- [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/) - *The SPHN data-enabling framework: From routinely collected healthcare to FAIR research data* ([video](https://www.youtube.com/watch?v=Z52qLfSv6s8))
-<!-- 
-The presentation by **Ricard Martínez** will be **remote** only. The presentations by **Tim Smith** and **Katrin Crameri with Patrick Hirschi** will be **hybrid**.  
-- To attend the presentations *remotely*, register [here](https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137) (if the link does not work, copy/paste this link in your browser: https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137)
-- To attend the presentations *in person*, join us in the Auditorium of Schulthess Klinic on Tuesday (Lengghalde 2, 8008 Zürich) and in the Auditorium of Balgrist University Hospital on Wednesday (Forchstrasse 340, 8008 Zürich) -->
 
 ---
 
@@ -158,11 +146,12 @@ In Bologna:
 - [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
 - [Gianluca	Iori](https://github.com/gianthk)
 - [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
-- [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
+- [Giulia	Fraterrigo](https://www.ior.it/en/ri[cerca-e-innovazione/ing-giulia-fraterrigo)
+- [Martino Pani](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/martino-pani)
+- [Syed Muhammad Haider Shah](https://www.linkedin.com/in/haider-shah-60ab283b0)
 
 
 ---
-
 
 
 ## Staying, eating, and travelling
