@@ -58,7 +58,7 @@ In Calgary:
   - Coordinator: [Michael Kuczynski](https://www.linkedin.com/in/mkuczyns/)  
 - **ORMIR-XCT documentation**
   - Aim: To populate the ORMIR-XCT website with information for developers and users
-  - Working guidelines: for the content [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing) and for the computational tools [here](https://www.ormir.org/code_guidelines/docs-contributing/)
+  - Working guidelines: for the content [here](https://docs.google.com/document/d/1rE0JOtLHnwMk7ywklSXp8AEGM22bPKR26o392kj_fhU/edit?usp=sharing) and for the computational tools [here](https://www.ormir.org/coding_guidelines/docs-contributing/)
   - GitHub repository [here](https://github.com/ORMIR-XCT/ormir-xct.github.io)
   - Website [here](https://ormir-xct.github.io/)
   - Coordinator: [Serena Bonaretti](https://sbonaretti.github.io/)
@@ -74,24 +74,6 @@ In Bologna:
   - Working guidelines [here](https://docs.google.com/document/d/1tezdPCSCIN0VacOfaYaZtvHsdq-mwjzGhy_SXKYMhCc/edit?usp=sharing)
   - GitHub repository [here](https://github.com/ciclope-microFE/ciclope)
   - Coordinator: [Enrico Schileo](http://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
-
-<!--
-- **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
-  - Group presentation: [here](./presentations/ormir_mids.pdf)
-  - GitHub repository: [ORMIR-MIDS](https://github.com/ormir-mids)
-  - Coordinators: *Gianluca Iori* and *Donnie Cameron*
-- **Guidelines for data sharing** 
-  - GitHub repository: [ORMIR data guidelines](https://github.com/ORMIRcommunity/ormir_index_guidelines)
-  - Documentation: [document](https://docs.google.com/document/d/1zlM3jXVO-tIVCum4jvh4jGhMstlhguBCqHR1yd-3cm8/edit?usp=sharing) and [spreadsheet](./presentations/Group1-DataSharing-ConsensusMetaDataList-Final.xlsx)
-  - Coordinator: *Sarah Manske*
-- **Biomechanics** 
-  - Group presentation: [here](./presentations/biomechanics.pdf)
-  - GitHub repository: [HipPyFemur](https://github.com/hippyfemur)
-  - Coordinator: *Lorenzo Grassi*
-- **Data format converters (ScancoIO)**
-  - GitHub repository: [vtkbone](https://github.com/OpenMSKImaging/vtkbone/tree/master/Tutorials)
-  - Coordinator: *Matthias Walle*
--->
 
 
 ### Invited speakers
