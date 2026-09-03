@@ -30,10 +30,10 @@ In this page, you will find:
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#staying-eating-and-travelling)    
   - [Accommodation](#accommodation), [Meals and social activities](#meals-and-social-activities), [Transportation](#transportation), [Travel reimbursements](#travel-reimbursements)  
-<!--
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), [Final report](#final-report), [Final budget](#final-budget), [Photos](#photos) 
--->
+  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget)
+    <!--, [Final report](#final-report), [Photos](#photos) -->
+
 
 ---
 
@@ -212,19 +212,21 @@ In Bologna:
 
 ---
 
-<!--
-## More
-Coming soon!
 
+## More
 
 ### Accepted proposal
-Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349119)
+Find the accepted CIHR grant proposal [here](https://doi.org/10.5281/zenodo.22267370)
 
-### Final report
-Read the [report](./figures/final_report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
 
 ### Final budget
 Find our final budget [here](./figures/final_budget.png)
+
+Coming soon - Final Report and Photos!
+
+<!--
+### Final report
+Read the [report](./figures/final_report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
 
 ### Photos
 
