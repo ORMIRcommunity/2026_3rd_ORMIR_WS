@@ -80,7 +80,7 @@ In Bologna:
 - [Christof Seiler](https://christofseiler.github.io/): Software engineering principles (tutorial) ([slides](https://christofseiler.github.io/talks/ormir#/title-slide), [video](https://www.youtube.com/watch?v=a0yft_WR7Gs))
 - [Serena Bonaretti](https://sbonaretti.github.io/): Open Science in Musculoskeletal Imaging: From Principles to Practice (presentation) ([slides](presentations/bonaretti_open_science_in_msk.pdf), [video](https://www.youtube.com/watch?v=B6DHS-JEXHE))
 - [Matt McCormick](https://www.linkedin.com/in/drmatthewmccormick/): Best practices in maintaining and contributing to open source packages - lessons learned from real life (presentation, virtual) ([slides](/presentations/mccormick_ormir_best_practices_in_maintaining_and_contributing_to_open_source_packages.pdf), video coming soon!)
-- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/): Git use and software organization (tutorial) ([slides](/presentations/baldesarra_git_tutorial.pdf), video coming soon!)
+- [Erica Baldesarra](https://www.linkedin.com/in/erica-baldesarra-68966123a/): Git use and software organization (tutorial) ([slides](/presentations/baldesarra_git_tutorial.pdf))
 
 
 *Note*: It will be possible to join presentations and tutorials remotely. They will also be recorder and added to the [ORMIR YouTube channel](https://www.youtube.com/@ormircommunity)
@@ -222,21 +222,16 @@ Find the accepted CIHR grant proposal [here](https://doi.org/10.5281/zenodo.2226
 ### Final budget
 Find our final budget [here](./figures/budget_final.png)
 
-Coming soon - Final Report and Photos!
 
-<!--
 ### Final report
-Read the [report](./figures/final_report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
+Coming soon!
+
+<!-- Read the [report](./figures/final_report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844) -->
 
 ### Photos
 
 #### Working!
-<img src="./photos/work_1.png" width="270"> <img src="./photos/work_2.png" width="270"> <img src="./photos/work_3.png" width="270"> <img src="./photos/work_4.png" width="270"> <img src="./photos/work_5.png" width="270"> <img src="./photos/work_6.png" width="270">
-
-#### Guest speakers: Ricard Martínez, Tim Smith, and Katrin Crameri and Patrick Hirschi
-<img src="./photos/presenter_1.png" width="270"> <img src="./photos/presenter_2.png" width="270"> <img src="./photos/presenter_3.png" width="270">
+<img src="./photos/photo_1.png" width="270"> <img src="./photos/photo_2.png" width="270"> <img src="./photos/photo_3.png" width="270"> 
 
 #### Having fun!
-<img src="./photos/fun_1.png" width="270"> <img src="./photos/fun_2.png" width="270"> <img src="./photos/fun_3.png" width="270">
-
--->
+<img src="./photos/photo_4.png" width="270"> <img src="./photos/photo_5.png" width="270"> <img src="./photos/photo_6.png" width="270">
