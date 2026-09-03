@@ -220,7 +220,7 @@ Find the accepted CIHR grant proposal [here](https://doi.org/10.5281/zenodo.2226
 
 
 ### Final budget
-Find our final budget [here](./figures/final_budget.png)
+Find our final budget [here](./figures/budget_final.png)
 
 Coming soon - Final Report and Photos!
 
