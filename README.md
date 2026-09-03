@@ -214,8 +214,6 @@ In Bologna:
 
 
 ## More
-Coming soon!
-
 
 ### Accepted proposal
 Find the accepted CIHR grant proposal [here](https://doi.org/10.5281/zenodo.22267370)
@@ -224,6 +222,7 @@ Find the accepted CIHR grant proposal [here](https://doi.org/10.5281/zenodo.2226
 ### Final budget
 Find our final budget [here](./figures/final_budget.png)
 
+Coming soon - Final Report and Photos!
 
 <!--
 ### Final report
